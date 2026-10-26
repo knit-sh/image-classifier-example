@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Datasets and trained models (download/produce locally)
+data/
+*.pt
+
+# Local agent config
+.claude/
